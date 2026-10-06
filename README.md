@@ -1,16 +1,24 @@
-## Hi there 👋
+Ivan Ozharovskiy
 
-<!--
-**iaozharovskiy/iaozharovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+🎓ITMO student/ФИТИП Software engineering
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Первоначальный технологический стек
+### Изучаемые языки программирования
+ 
+- ![*C*](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+- [*C++*](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![*Python*](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Изучаемые IDE
+
+- ![*CLion*](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+- ![*Microsoft Visual Studio Code*](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- ![*Sublime Text 4*](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+---
+
+## favourite code part/ git command 🖥️
+| C | git |
+|--|--|
+| `qsort(array, n, sizeof(int), compare);` | `git clone` |  
